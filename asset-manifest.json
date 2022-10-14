@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ismailkmr/starter-project/static/css/main.073c9b0a.css",
+    "main.css": "/ismailkmr/starter-project/static/css/main.f5518cde.css",
     "main.js": "/ismailkmr/starter-project/static/js/main.b7d5a08a.js",
     "static/js/787.d54456cf.chunk.js": "/ismailkmr/starter-project/static/js/787.d54456cf.chunk.js",
     "static/media/logo.svg": "/ismailkmr/starter-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ismailkmr/starter-project/index.html",
-    "main.073c9b0a.css.map": "/ismailkmr/starter-project/static/css/main.073c9b0a.css.map",
+    "main.f5518cde.css.map": "/ismailkmr/starter-project/static/css/main.f5518cde.css.map",
     "main.b7d5a08a.js.map": "/ismailkmr/starter-project/static/js/main.b7d5a08a.js.map",
     "787.d54456cf.chunk.js.map": "/ismailkmr/starter-project/static/js/787.d54456cf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.f5518cde.css",
     "static/js/main.b7d5a08a.js"
   ]
 }
